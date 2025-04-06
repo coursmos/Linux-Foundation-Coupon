@@ -54,7 +54,7 @@ This is your evergreen lifesaver for solo certs or full-stack paths.
 
 ### DevOps Exclusive: Up to 38% OFF
 
-Coupon Code: DCUBE30 via [kube.promo/devops](https://kube.promo/devops). This code is tailored for tech pros in the DevOps space and offers massive discounts on high-value bundles.
+Coupon Code: `'DCUBE30'`. This code is tailored for tech pros in the DevOps space and offers massive discounts on high-value bundles.
 
 **Deals that matter:**
 
